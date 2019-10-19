@@ -1,6 +1,8 @@
 # Bay-wheels_bike_rental
 # SF - FordGo Bike Rental Data Exploration
 
+Created univariate, bivariate and multivariate plots using matplotlib and seaborn libraries as a part of Exploratory analysis to find out the co-relation between multiple categorical and numeric variables. The conclusion suggesting variable(s) with highest impact on ‘duration of trip’ was conveyed via Explanatory analysis.
+
 ## Dataset
 
 There are 519,700 bike trips in the dataset with 20 columns. This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The information about the data can be found in the https://www.bikeshare.com/data/ website and the actual data file can be found at following location - https://s3.amazonaws.com/baywheels-data/index.html
