@@ -1,4 +1,15 @@
 # Bay-wheels_bike_rental
+
+**Install**
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+You will also need to have software installed to run and execute an iPython Notebook
+
+Install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
 # SF - FordGo Bike Rental Data Exploration
 
 Created univariate, bivariate and multivariate plots using matplotlib and seaborn libraries as a part of Exploratory analysis to find out the co-relation between multiple categorical and numeric variables. The conclusion suggesting variable(s) with highest impact on ‘duration of trip’ was conveyed via Explanatory analysis.
