@@ -9,6 +9,20 @@ You will also need to have software installed to run and execute an iPython Note
 
 Install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook finding_donors.ipynb
+```  
+or
+```bash
+jupyter notebook finding_donors.ipynb
+```
+
+This will open the iPython Notebook software and project file in your browser.
+
 # SF - FordGo Bike Rental Data Exploration
 
 Created univariate, bivariate and multivariate plots using matplotlib and seaborn libraries as a part of Exploratory analysis to find out the co-relation between multiple categorical and numeric variables. The conclusion suggesting variable(s) with highest impact on ‘duration of trip’ was conveyed via Explanatory analysis.
