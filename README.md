@@ -4,6 +4,7 @@
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
+- [seaborn] (https://seaborn.pydata.org/)
 
 You will also need to have software installed to run and execute an iPython Notebook
 
