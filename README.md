@@ -1,4 +1,5 @@
-# Bay-wheels_bike_rental
+# Data Visualization using Python
+## Bay Wheels Bike Rental
 
 **Install**
 - [NumPy](http://www.numpy.org/)
