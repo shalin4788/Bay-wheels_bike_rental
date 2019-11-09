@@ -15,11 +15,11 @@ Install Anaconda, a pre-packaged Python distribution that contains all of the ne
 In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook finding_donors.ipynb
+ipython notebook FordGo_Bike_Data_Exploration.ipynb
 ```  
 or
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter notebook FordGo_Bike_Data_Exploration.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
