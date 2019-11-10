@@ -13,7 +13,7 @@ Install Anaconda, a pre-packaged Python distribution that contains all of the ne
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Bay-wheels_bike_rental/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook FordGo_Bike_Data_Exploration.ipynb
